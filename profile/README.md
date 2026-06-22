@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace the src below with the actual URL of the logo you chose -->
-  <img src="https://via.placeholder.com/150/169B62/FFFFFF?text=HL7-IE+Logo" alt="HL7-IE Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/hl7-ie/.github/refs/heads/main/hl7-ie-logo.png" alt="HL7-IE Logo" width="150" />
   <h1>HL7-IE: Open-Source FHIR Community</h1>
   <p><em>Fostering Healthcare Interoperability in Ireland and across Europe</em></p>
   
