@@ -9,6 +9,10 @@
   [![EHDS Ready](https://img.shields.io/badge/EHDS-Alignment-blue)](#)
 </div>
 
+<br>
+
+> **⚠️ STATUS: IN DEVELOPMENT (CONCEPTUAL PHASE)** > *Please note: HL7-IE is currently in its early stages of development. All structures, repositories, and implementation guidance provided here are purely **conceptual** at this time. We are currently laying the groundwork for a community-driven open-source organization.*
+
 ---
 
 ## 🇮🇪 Welcome to HL7-IE
